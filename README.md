@@ -1,1 +1,2 @@
 # SteamItemPriceChecker
+![Preview](./Untilted.jpg)
